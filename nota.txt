@@ -1,0 +1,8 @@
+==========S T R U K P E M B E L I A N==========
+Nama : bintang
+Beli : 3Kripik Talas(Rp.18000)
+Beli : 2Teh Botol(Rp.10000)
+Tagihan : Rp.28000
+Dibayar : Rp.50000
+Kembalian : Rp.22000
+===============================================
